@@ -1,3 +1,5 @@
+//Programa Java que lea dos Números enteros por teclado y los muestre en pantalla
+
 import java.util.*;
 
 public class Ejercicio1 {
